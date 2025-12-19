@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Secrets / configs
+config.py
+
+# Output files
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
